@@ -5,6 +5,8 @@ Free Hanging Cable
 
 A free hanging cable suspended from two fixed points takes the shape of a catenary curve.
 
+![alt text](file:///C:/Users/Sherwood/Desktop/catenary.JPG)
+
 The equation of a catenary curve is:
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=y&space;=&space;a\times&space;cosh(\frac{a}{b})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y&space;=&space;a\times&space;cosh(\frac{a}{b})" title="y = a\times cosh(\frac{a}{b})" /></a>
